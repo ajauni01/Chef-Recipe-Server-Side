@@ -2,6 +2,9 @@ const express = require('express')
 const app = express();
 const port = process.env.PORT || 5000;
 
+// cors to connect server side, and the client side
+var cors = require('cors')
+app.use(cors())
 
 // get all chefs' data
 const allChefs = require('./data/chefRecipe.json')
