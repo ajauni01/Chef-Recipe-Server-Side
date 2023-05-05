@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Alain Ducasse",
+    "description": "One of the most decorated chefs in the world, Alain Ducasse is a French culinary icon known for his sophisticated, contemporary French cuisine. He has earned more Michelin stars than any other chef in the world, and his restaurants span the globe.",
+    "likes": 100,
+    "numberOfRecipes": 60,
+    "yearsOfExperience": 10,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 3.8,
+        "favoriteButton": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Anne-Sophie Pic",
+    "description": "Anne-Sophie Pic-The only female chef in France to hold three Michelin stars, Anne-Sophie Pic is known for her inventive, feminine cuisine. She comes from a long line of Michelin-starred chefs and has brought her family's culinary traditions into the modern era.",
+    "likes": 1300,
+    "numberOfRecipes": 60,
+    "yearsOfExperience": 30,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 4.8,
+        "favoriteButton": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://images.pexels.com/photos/3438708/pexels-photo-3438708.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Éric Ripert",
+    "description": "Éric Ripert - The chef and co-owner of Le Bernardin in New York City, Éric Ripert is a French-born chef who specializes in seafood. He is known for his elegant, minimalist approach to cooking and his commitment to sustainable seafood practices",
+    "likes": 1200,
+    "numberOfRecipes": 10,
+    "yearsOfExperience": 5,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 4.8,
+        "favoriteButton": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Hélène Darroze",
+    "description": "Hélène Darroze - With two Michelin-starred restaurants in Paris and London, Hélène Darroze is one of the most prominent female chefs in France. She is known for her innovative, contemporary approach to French cuisine and her commitment to using local and seasonal ingredients.",
+    "likes": 50,
+    "numberOfRecipes": 20,
+    "yearsOfExperience": 5,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 5.00,
+        "favoriteButton": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://images.pexels.com/photos/6937441/pexels-photo-6937441.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Joël Robuchon",
+    "description": "Joël Robuchon - A legendary figure in French cuisine, Joël Robuchon was the most Michelin-starred chef in the world before his passing in 2018. He was known for his precise, meticulous approach to cooking and his ability to create dishes that were both visually stunning and delicious.",
+    "likes": 200,
+    "numberOfRecipes": 20,
+    "yearsOfExperience": 10,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 4.00,
+        "favoriteButton": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "chefName": "Pierre Gagnaire",
+    "description": "Pierre Gagnaire - One of the most creative and experimental chefs in France, Pierre Gagnaire is known for his avant-garde approach to French cuisine. He is a master of combining unexpected flavors and textures in his dishes, and his restaurants have earned numerous accolades over the years.",
+    "likes": 110,
+    "numberOfRecipes": 70,
+    "yearsOfExperience": 20,
+    "recipes": [
+      {
+        "recipeName": [
+          "Coq au Vin",
+          "Crème Brûlée",
+          "Boeuf Bourguignon"
+        ],
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "bacon",
+          "mushrooms",
+          "onion"
+        ],
+        "cookingMethod": "Preheat oven to 350°F. In a large Dutch oven, cook bacon until crisp. Remove bacon and set aside. Season beef with salt and pepper and sear in the Dutch oven until browned on all sides. Remove beef and set aside. Add carrots, onions, and garlic to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add beef and bacon back to the Dutch oven and cover. Transfer to the oven and cook for 2-3 hours, or until beef is tender. Serve hot.",
+        "rating": 4.8,
+        "favoriteButton": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "John Doe",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Jane Smith",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "likes": 500
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Michael Lee",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 2000
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Samantha Rodriguez",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 45,
+    "likes": 800
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "David Kim",
+    "yearsOfExperience": 3,
+    "numberOfRecipes": 20,
+    "likes": 300
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Stephanie Chen",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 70,
+    "likes": 1500
+  }
+]
